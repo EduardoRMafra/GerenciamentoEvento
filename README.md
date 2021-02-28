@@ -25,6 +25,7 @@ Digite o numero de salas:
 Digite o nome da sala 1:
 Digite o nome da sala 2:
 Digite o nome da sala 3:
+
 .....
 
 Digite o nome do espaço 1:
