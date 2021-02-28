@@ -1,0 +1,13 @@
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.csprojAssemblyReference.cache
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.AssemblyInfoInputs.cache
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.AssemblyInfo.cs
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.csproj.CoreCompileInputs.cache
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.exe
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.deps.json
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.runtimeconfig.json
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.runtimeconfig.dev.json
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.dll
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\bin\Debug\netcoreapp3.1\GerenciamentoEvento.pdb
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.dll
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.pdb
+D:\Eduardo\Documents\Programação\C#\GerenciamentoEvento\GerenciamentoEvento\obj\Debug\netcoreapp3.1\GerenciamentoEvento.genruntimeconfig.cache
