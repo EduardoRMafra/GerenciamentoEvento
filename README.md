@@ -12,6 +12,9 @@ Utilize o Gerenciador de soluções no canto direito para acessar os scripts
 F5 inicia da depuração.
 
 
+Instruções
+
+
 Digite o numero de Pessoas participante: 
 
 Digite o nome do 1 participante:
